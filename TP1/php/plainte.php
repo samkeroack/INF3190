@@ -34,7 +34,12 @@ function verificationDonnees()
 {
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-        return isset($_POST["nom"], $_POST["prenom"], $_POST["ville"], $_POST["telephone"], $_POST["courriel"], $_POST["message"])
+        return isset($_POST["nom"],
+                $_POST["prenom"],
+                $_POST["ville"],
+                $_POST["telephone"],
+                $_POST["courriel"],
+                $_POST["message"])
             && !empty($_POST["nom"])
             && !empty($_POST["prenom"])
             && !empty($_POST["ville"])
@@ -48,7 +53,9 @@ function verificationDonnees()
 function ecrirePlainte($nom, $prenom, $ville, $telephone, $courriel, $message)
 {
     $plainte = fopen('../Plainte/plainte.txt', 'a');
-    fwrite($plainte, "Nom:" . $nom . ", Prénom:" . $prenom . ", Ville:" . $ville . ", Téléphone:" . $telephone . ", Courriel:" . $courriel . ", Message:" . $message . "\n");
+    fwrite($plainte, "Nom:" . $nom . ", Prénom:" .
+        $prenom . ", Ville:" . $ville . ", Téléphone:" .
+        $telephone . ", Courriel:" . $courriel . ", Message:" . $message . "\n");
     fclose($plainte);
 }
 
