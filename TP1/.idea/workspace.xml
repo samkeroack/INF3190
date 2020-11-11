@@ -6,8 +6,39 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97123e2-001a-47c3-b74e-a685db81de9b" name="Default Changelist" comment="" />
+    <list default="true" id="f97123e2-001a-47c3-b74e-a685db81de9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Intra/.idea/Intra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Revision Intra/.idea/Revision Intra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/TP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/Accueil.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/CSS/styleGeneral.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/HTML/Commandes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/HTML/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/HTML/Informations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +55,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1ieBdHD8i3KI2iGcLlYXkZVllLF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -90,11 +125,28 @@
       <workItem from="1603463256710" duration="51000" />
       <workItem from="1603722477578" duration="973000" />
       <workItem from="1603723466269" duration="746000" />
+      <workItem from="1603725096464" duration="33000" />
+      <workItem from="1603979780504" duration="93000" />
+      <workItem from="1603983831435" duration="768000" />
+      <workItem from="1604244856662" duration="30000" />
+      <workItem from="1605020462068" duration="3078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="681" y="100" key="#PHP" timestamp="1602788653375">
