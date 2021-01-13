@@ -26,18 +26,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97123e2-001a-47c3-b74e-a685db81de9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Intra/.idea/Intra.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Revision Intra/.idea/Revision Intra.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/.idea/TP2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/Accueil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/CSS/styleGeneral.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/HTML/Commandes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/HTML/Contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TP2/HTML/Informations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/Commandes/Commandes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/Oinion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/accueil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/coeur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/fork-salad-herb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/IMG/ingredients.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/PHP/Commande.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP2/PHP/confirmation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/styleGalerie.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/styleGalerie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2/Accueil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/CSS/styleGeneral.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2/CSS/styleGeneral.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/HTML/Commandes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/HTML/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2/HTML/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP2/HTML/Informations.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TP2/HTML/Informations.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +135,11 @@
       <workItem from="1603983831435" duration="768000" />
       <workItem from="1604244856662" duration="30000" />
       <workItem from="1605020462068" duration="3078000" />
+      <workItem from="1605111853517" duration="1328000" />
+      <workItem from="1605113981075" duration="7148000" />
+      <workItem from="1605199147779" duration="496000" />
+      <workItem from="1605219106717" duration="4000" />
+      <workItem from="1605645709607" duration="1895000" />
     </task>
     <servers />
   </component>
@@ -153,6 +163,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="681" y="100" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1602788653375" />
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605112617480">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814@0.23.1440.814" timestamp="1605112617480" />
     <state x="455" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602259447198">
       <screen x="0" y="23" width="1440" height="812" />
     </state>

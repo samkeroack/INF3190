@@ -7,40 +7,56 @@
 </head>
 <body>
 <header>
-    <h1>Traiteur aux petits oignons</h1>
+    <table class="logo">
+        <tr>
+            <td>
+                <img alt="logo" src="../IMG/Logo.png">
+            </td>
+            <td>
+                <h1>Traiteur aux petits oignons</h1>
+            </td>
+        </tr>
+    </table>
     <nav>
-        <ul>
+        <ul class="menu">
             <li><a href="../Accueil.html">Accueil</a></li>
             <li><a href="Informations.html">Informations</a></li>
-            <li><a href="Commandes.html">Commandes</a></li>
+            <li><a href="../PHP/Commande.php">Commande</a></li>
             <li><a href="Contact.html">Contact</a></li>
         </ul>
         <br>
     </nav>
-    <h2>Contact</h2>
 </header>
-<address>
-    <h4>Adresse : </h4>
-    <br>
-    <a href="https://www.google.ca/maps/place/1234+Rue+Montarville,+Longueuil,
-    +QC+J4J+3H3/@45.5259833,-73.4963581,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91b49af3d887b:
-    0x2f6c93d3d188907a!8m2!3d45.5259833!4d-73.4941694">Traiteur aux petits oignons<br>
-        1234 Rue Montarville<br>
-        Longueuil (Québec) J4J 3H3
-    </a><br><br>
-    <h4>Par T&eacute;l&eacute;phone :</h4><br>
-    <a href="tel:tel450-123-4567">450-123-4567</a><br>
-    <a href="tel:514-123-4567">514-123-4567</a><br><br>
-    <h4> Par Courriel :</h4><br>
-    <a href="mailto:info@traiteurpetitsoignons.ca">
-        info@traiteurpetitsoignons.ca</a><br>
-</address>
-<figure>
-    <img src="../IMG/carte.png" alt="carte">
-    <figcaption>Nous desservons toutes les écoles primaires de la rive-sud de Montréal</figcaption>
+<img alt="banniere" id="banner" src="../IMG/banner.jpg">
 
-</figure>
-<footer>Samuel Kéroack<br>KERS15059307</footer>
+<div class="contenu">
+    <h2>Contact</h2>
+    <hr>
+        <table>
+            <tr>
+                <td>
+                    <h4>Adresse : </h4>
+                    <a href="https://www.google.ca/maps/place/1234+Rue+Montarville,+Longueuil,+QC+J4J+3H3/@45.5259833,-73.4963581,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91b49af3d887b:0x2f6c93d3d188907a!8m2!3d45.5259833!4d-73.4941694">Traiteur aux petits oignons<br><br>
+                        1234 Rue Montarville<br>
+                        Longueuil (Qu&eacute;bec) J4J 3H3
+                    </a><br>
+                    <h4>Par T&eacute;l&eacute;phone :</h4>
+                    <a href="tel:tel450-123-4567">450-123-4567</a><br>
+                    <a href="tel:514-123-4567">514-123-4567</a><br>
+                    <h4> Par Courriel :</h4>
+                    <a href="mailto:info@traiteurpetitsoignons.ca">
+                        info@traiteurpetitsoignons.ca</a>
+                </td>
+                <td>
+                    <br>
+                    <a href="https://www.google.ca/maps/place/1234+Rue+Montarville,+Longueuil,+QC+J4J+3H3/@45.5259833,-73.4963581,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91b49af3d887b:0x2f6c93d3d188907a!8m2!3d45.5259833!4d-73.4941694">
+                        <img alt="carte" id="carte" src="../IMG/carte.png">
+                    </a>
+                </td>
+            </tr>
+        </table>
+</div>
+<br><br><br>
 
 </body>
 </html>

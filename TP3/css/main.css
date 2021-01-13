@@ -1,0 +1,41 @@
+.form {
+    margin: 5%;
+}
+
+.border {
+    border-width: 2px !important;
+}
+
+.confirmation {
+    margin-top: 5%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fiche {
+    margin-bottom: 30px;
+}
+
+.ficheanimal {
+    margin: 10px;
+    text-decoration: none;
+    color: inherit;
+    transition: 0.3s;
+}
+
+.ficheanimal:hover {
+    background: #28a745;
+    text-decoration: none;
+    color: white;
+}
+
+.animaux {
+    margin: 5% 5% 2.5% 5%;
+}
+
+.sub-animaux {
+    margin: 0 5% 0 5%;
+}
